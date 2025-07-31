@@ -12,6 +12,7 @@ solving problems i'll never face in real life
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
@@ -34,4 +35,8 @@ solving problems i'll never face in real life
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/3226-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
