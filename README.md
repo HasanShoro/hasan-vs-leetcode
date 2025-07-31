@@ -13,10 +13,12 @@ solving problems i'll never face in real life
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
