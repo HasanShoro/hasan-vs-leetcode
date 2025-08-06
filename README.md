@@ -8,6 +8,7 @@ solving problems i'll never face in real life
 | ------- |
 | [0258-add-digits](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/0258-add-digits) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
