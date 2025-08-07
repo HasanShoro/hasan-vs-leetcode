@@ -10,6 +10,7 @@ solving problems i'll never face in real life
 | [1146-greatest-common-divisor-of-strings](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/HasanShoro/hasan-vs-leetcode/tree/master/2752-sum-multiples) |
 ## String
 |  |
 | ------- |
